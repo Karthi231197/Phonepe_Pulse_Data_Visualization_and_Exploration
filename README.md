@@ -2,12 +2,12 @@
 
 **Steps:**
 
-Extract data by scripting to clone the repository.
+1. Extract data by scripting to clone the repository.
 
-Clean and structure data using Python and Pandas.
+2. Clean and structure data using Python and Pandas.
 
-Store transformed data in a POSTGRESQL database.
+3. Store transformed data in a POSTGRESQL database.
 
-Build an interactive dashboard using Streamlit and Plotly.
+4. Build an interactive dashboard using Streamlit and Plotly.
 
-Dynamically update the dashboard by fetching data from the database.
+5. Dynamically update the dashboard by fetching data from the database.
